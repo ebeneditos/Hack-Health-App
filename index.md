@@ -14,13 +14,13 @@ Our proposal was to develop a mobile app which helped therapists that had patien
 
 ## Awards
 
-The solution was awarde with the *"Award for the Best Technical Solution"*, 1st prize of the Hackathon, rewarding the components of the group with tickets to the Strata Conference held in London in May 2017.
+The solution was awarde with the *"Award for the Best Technical Solution"*, the 1st prize of the Hackathon. The components of the group where rewarded with tickets to the Strata Conference held in London in May 2017.
 
 <blockquote class="twitter-tweet" data-lang="ca"><p lang="es" dir="ltr">Premio a la mejor solución técnica para <a href="https://twitter.com/ebeneditos">@ebeneditos</a> que ganan una entrada a la Strata Conference <a href="https://twitter.com/strataconf">@strataconf</a> <a href="https://twitter.com/hashtag/hackhealth?src=hash">#hackhealth</a> <a href="https://twitter.com/Orbital40">@Orbital40</a> <a href="https://t.co/Dst22rIJZQ">pic.twitter.com/Dst22rIJZQ</a></p>&mdash; Synergic Partners (@synergicpartner) <a href="https://twitter.com/synergicpartner/status/802584705098989568">26 de novembre de 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Media
 
-The competition was also covered by the local media. The following [article](http://www.diarideterrassa.es/economia/2016/12/02/hackhealth-premia-ideas-mejoran-calidad-vida/43961.html) was written by *El Diari de Terrassa*:
+The competition was also covered by the local media. The following article was written by *El Diari de Terrassa*:
 
 **Hack&Health rewards ideas that improve the quality of life**
 
@@ -30,4 +30,4 @@ The competition was also covered by the local media. The following [article](htt
 
 *Finally, honorable mention was given to the Salut Activa group, formed by Marta González, Celia García, Víctor Baños, Miquel Mussons and Javier Pescador, for the creation of a network that allows the interconnection of all community assets (medical organizations and institutions) with the aim of improving care and service to patients. The proposal, based on data from the Terrassa Sanitary Consortium, would also allow users to share information and doubts.*
 
-<div align="right">El Diari de Terrassa, 2nd December 2016</div>
+<div align="right"><a href="https://www.w3schools.com/html/">El Diari de Terrassa, 2nd December 2016</a></div>
