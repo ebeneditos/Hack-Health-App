@@ -1,7 +1,7 @@
 # Hack&Health App
 ## Authors: Ernest Benedito, Gonzalo Espinosa & Sandra Orozco
 
-On the 25th and 26th of November of 2016 a Hackathon took place in the campus of the UPC of Terrassa. It was organized by the [City Hall of Terrassa](http://www.terrassa.cat/es/hack-health) with the collaboration of [Synergic Partners](http://www.synergicpartners.com/en/hackhealth-el-ayuntamiento-de-terrassa-organiza-el-primer-hackathon-de-big-data-y-salud-con-la-colaboracion-de-synergic-partners/), a Big Data and Data Science consulting firm, part of the Telefónica group.
+On the 25th and 26th of November of 2016 a Hackathon took place in the campus of the UPC in Terrassa. It was organized by the [City Hall of Terrassa](http://www.terrassa.cat/es/hack-health) with the collaboration of [Synergic Partners](http://www.synergicpartners.com/en/hackhealth-el-ayuntamiento-de-terrassa-organiza-el-primer-hackathon-de-big-data-y-salud-con-la-colaboracion-de-synergic-partners/), a Big Data and Data Science consulting firm, part of the Telefónica group.
 
 The aim of the Hackathon was to find a solution to improve the quality of life of the citizens. Several data was provided from hospitals from the city and applications that focus on health such as Healthapp.
 
