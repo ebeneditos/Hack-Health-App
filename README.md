@@ -7,7 +7,7 @@ The aim of the Hackathon was to find a solution to improve the quality of life o
 
 ![](http://www.euncet.es/wp-content/uploads/2016/11/Hack_health_2016.png)
 
-## Proposal
+## Solution
 
 Our proposal was to develop a mobile app which helped therapists that had patients with eating disorders. These kind of patients need to have a close follow-up, as they are prone to having critical episodes. Thus, with the data provided, we built an app that helped the therapist  with the following tools:
 1. A quick view of the patient's performance in therms of eating frequency and activity recording.
