@@ -4,7 +4,7 @@ On the 25th and 26th of November of 2016 a Hackathon took place in the campus of
 
 The aim of the Hackathon was to find a solution to improve the quality of life of the citizens. Several data was provided from hospitals from the city and applications that focus on health such as Healthapp.
 
-## Proposal
+## Solution
 
 Our proposal was to develop a mobile app which helped therapists that had patients with eating disorders. These kind of patients need to have a close follow-up, as they are prone to having critical episodes. Thus, with the data provided, we built an app that helped the therapist  with the following tools:
 
