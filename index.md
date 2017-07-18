@@ -1,3 +1,4 @@
+## Challenge
 
 On the 25th and 26th of November of 2016 a Hackathon took place in the campus of the UPC of Terrassa. It was organized by the [City Hall of Terrassa](http://www.terrassa.cat/es/hack-health) with the collaboration of [Synergic Partners](http://www.synergicpartners.com/en/hackhealth-el-ayuntamiento-de-terrassa-organiza-el-primer-hackathon-de-big-data-y-salud-con-la-colaboracion-de-synergic-partners/), a Big Data and Data Science consulting firm, part of the Telefónica group.
 
@@ -5,7 +6,7 @@ The aim of the Hackathon was to find a solution to improve the quality of life o
 
 ![](http://www.euncet.es/wp-content/uploads/2016/11/Hack_health_2016.png)
 
-# Solution
+## Solution
 
 Our proposal was to develop a mobile app which helped therapists that had patients with eating disorders. These kind of patients need to have a close follow-up, as they are prone to having critical episodes. Thus, with the data provided, we built an app that helped the therapist  with the following tools:
 
@@ -14,13 +15,13 @@ Our proposal was to develop a mobile app which helped therapists that had patien
 
 Further explanation about the predicting model and the app development can be found on the [GitHub repository](https://github.com/ebeneditos/Hack-Health-App) of the project.
 
-# Awards
+## Awards
 
 The solution was awarded with the *"Award for the Best Technical Solution"*, the 1st prize of the Hackathon. The components of the group where rewarded with tickets to the Strata Conference held in London in May 2017.
 
 <div align="center"><blockquote class="twitter-tweet" data-lang="ca"><p lang="es" dir="ltr">Premio a la mejor solución técnica para <a href="https://twitter.com/ebeneditos">@ebeneditos</a> que ganan una entrada a la Strata Conference <a href="https://twitter.com/strataconf">@strataconf</a> <a href="https://twitter.com/hashtag/hackhealth?src=hash">#hackhealth</a> <a href="https://twitter.com/Orbital40">@Orbital40</a> <a href="https://t.co/Dst22rIJZQ">pic.twitter.com/Dst22rIJZQ</a></p>&mdash; Synergic Partners (@synergicpartner) <a href="https://twitter.com/synergicpartner/status/802584705098989568">26 de novembre de 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
-# Media
+## Media
 
 The competition was also covered by media. The following article was written by a local newspaper:
 
