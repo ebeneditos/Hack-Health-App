@@ -14,7 +14,7 @@ Our proposal was to develop a mobile app which helped therapists that had patien
 
 The solution was awarde with the *"Award for the Best Technical Solution"*, the 1st prize of the Hackathon. The components of the group where rewarded with tickets to the Strata Conference held in London in May 2017.
 
-<blockquote class="twitter-tweet" data-lang="ca"><p lang="es" dir="ltr">Premio a la mejor solución técnica para <a href="https://twitter.com/ebeneditos">@ebeneditos</a> que ganan una entrada a la Strata Conference <a href="https://twitter.com/strataconf">@strataconf</a> <a href="https://twitter.com/hashtag/hackhealth?src=hash">#hackhealth</a> <a href="https://twitter.com/Orbital40">@Orbital40</a> <a href="https://t.co/Dst22rIJZQ">pic.twitter.com/Dst22rIJZQ</a></p>&mdash; Synergic Partners (@synergicpartner) <a href="https://twitter.com/synergicpartner/status/802584705098989568">26 de novembre de 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div align="center"><blockquote class="twitter-tweet" data-lang="ca"><p lang="es" dir="ltr">Premio a la mejor solución técnica para <a href="https://twitter.com/ebeneditos">@ebeneditos</a> que ganan una entrada a la Strata Conference <a href="https://twitter.com/strataconf">@strataconf</a> <a href="https://twitter.com/hashtag/hackhealth?src=hash">#hackhealth</a> <a href="https://twitter.com/Orbital40">@Orbital40</a> <a href="https://t.co/Dst22rIJZQ">pic.twitter.com/Dst22rIJZQ</a></p>&mdash; Synergic Partners (@synergicpartner) <a href="https://twitter.com/synergicpartner/status/802584705098989568">26 de novembre de 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 ## Media
 
