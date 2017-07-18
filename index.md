@@ -18,9 +18,9 @@ The solution was awarde with the *"Award for the Best Technical Solution"*, the 
 
 ## Media
 
-The competition was also covered by the local media. The following article was written by *El Diari de Terrassa*:
+The competition was also covered by the local media. The following article was written by the local newspaper *El Diari de Terrassa*:
 
-**Hack&Health rewards ideas that improve the quality of life**
+***Hack&Health rewards ideas that improve the quality of life***
 
 *A tool to predict episodes of eating disorders has been the winner of the first Hack&Health organized by the City Hall of Terrassa. Synergic Partners, consulting firm of Big Data and Data Science (part of the Telefónica group), has collaborated with the city council to celebrate this first Hack&Health, an initiative that wants to make entrepreneurs use all the resources of Big Data to create solutions that improve the quality of life of citizens.*
 
