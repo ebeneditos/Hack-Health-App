@@ -33,4 +33,4 @@ The competition was also covered by media. The following article was written by 
 
 &nbsp;&nbsp;&nbsp;&nbsp;*Finally, honorable mention was given to the Salut Activa group, formed by Marta González, Celia García, Víctor Baños, Miquel Mussons and Javier Pescador, for the creation of a network that allows the interconnection of all community assets (medical organizations and institutions) with the aim of improving care and service to patients. The proposal, based on data from the Terrassa Sanitary Consortium, would also allow users to share information and doubts.*
 
-<div align="right"><a href="https://www.w3schools.com/html/">El Diari de Terrassa, 2nd December 2016</a></div>
+<div align="right"><a href="http://www.diarideterrassa.es/economia/2016/12/02/hackhealth-premia-ideas-mejoran-calidad-vida/43961.html">El Diari de Terrassa, 2nd December 2016</a></div>
