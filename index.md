@@ -23,7 +23,7 @@ The solution was awarded with the *"Award for the Best Technical Solution"*, the
 
 ## Media
 
-The competition was also covered by media. The following article was written a local newspaper:
+The competition was also covered by media. The following article was written by a local newspaper:
 
 &nbsp;&nbsp;&nbsp;&nbsp;***Hack&Health rewards ideas that improve the quality of life***
 
