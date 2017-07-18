@@ -23,7 +23,7 @@ The solution was awarded with the *"Award for the Best Technical Solution"*, the
 
 ## Media
 
-The competition was also covered by the local media. The following article was written by the local newspaper *El Diari de Terrassa*:
+The competition was also covered by local media. The following article was written by the local newspaper *El Diari de Terrassa*:
 
 &nbsp;&nbsp;&nbsp;&nbsp;***Hack&Health rewards ideas that improve the quality of life***
 
