@@ -8,7 +8,7 @@ The aim of the Hackathon was to find a solution to improve the quality of life o
 
 ## Solution
 
-Our proposal was to develop a mobile app which helped therapists that had patients with eating disorders. These kind of patients need to have a close follow-up, as they are prone to having critical episodes. Thus, with the data provided, we built an app that helped the therapist  with the following tools:
+The solution proposed by the MESIO group, formed by Ernest Benedito, Gonzalo Espinosa and Sandra Orozco was to develop an app which helped therapists that had patients with eating disorders. These kind of patients need to have a close follow-up, as they are prone to having critical episodes. Thus, with the data provided, we built an app that helped the therapist  with the following tools:
 
 1. A quick view of the patient's performance in therms of eating frequency and activity recording.
 2. A prediction with the percentage of probability of a patient to have an episode for a given day.
