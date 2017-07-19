@@ -1,4 +1,6 @@
-<title>Hack&Health App</title>
+<head>
+		<title>Hack&Health App</title>
+</head>
 
 ## Challenge
 
