@@ -1,3 +1,5 @@
+<head><title>Hack&Health App</title></head>
+
 ## Challenge
 
 On the 25th and 26th of November of 2016 a Hackathon took place in the campus of the UPC in Terrassa. It was organized by the [City Hall of Terrassa](http://www.terrassa.cat/es/hack-health) with the collaboration of [Synergic Partners](http://www.synergicpartners.com/en/hackhealth-el-ayuntamiento-de-terrassa-organiza-el-primer-hackathon-de-big-data-y-salud-con-la-colaboracion-de-synergic-partners/), a Big Data and Data Science consulting firm, part of the Telefónica group.
