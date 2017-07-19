@@ -1,8 +1,5 @@
 ---
-<head>
-    <title>Hack&Health App</title>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
- </head>
+title: "Hack&Health App"
 ---
 ## Challenge
 
