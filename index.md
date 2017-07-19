@@ -1,3 +1,4 @@
+<title>Hack&Health App</title>
 ## Challenge
 
 On the 25th and 26th of November of 2016 a Hackathon took place in the campus of the UPC in Terrassa. It was organized by the [City Hall of Terrassa](http://www.terrassa.cat/es/hack-health) with the collaboration of [Synergic Partners](http://www.synergicpartners.com/en/hackhealth-el-ayuntamiento-de-terrassa-organiza-el-primer-hackathon-de-big-data-y-salud-con-la-colaboracion-de-synergic-partners/), a Big Data and Data Science consulting firm, part of the Telefónica group.
@@ -34,5 +35,3 @@ The competition was also covered by media. The following article was written by 
 &nbsp;&nbsp;&nbsp;&nbsp;*Finally, honorable mention was given to the Salut Activa group, formed by Marta González, Celia García, Víctor Baños, Miquel Mussons and Javier Pescador, for the creation of a network that allows the interconnection of all community assets (medical organizations and institutions) with the aim of improving care and service to patients. The proposal, based on data from the Terrassa Sanitary Consortium, would also allow users to share information and doubts.*
 
 <div align="right"><a href="http://www.diarideterrassa.es/economia/2016/12/02/hackhealth-premia-ideas-mejoran-calidad-vida/43961.html">El Diari de Terrassa, 2nd December 2016</a></div>
-
-<head><title>Hack&Health App</title></head>
