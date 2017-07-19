@@ -1,7 +1,6 @@
-<head>
-	<title>Hack&Health App</title>
-	<link rel="icon" href="https://avatars3.githubusercontent.com/u/22095635?v=3&s=200">
-</head>
+---
+title: "Hack&Health App"
+---
 
 ## Challenge
 
@@ -9,7 +8,7 @@ On the 25th and 26th of November of 2016 a Hackathon took place in the campus of
 
 The aim of the Hackathon was to find a solution to improve the quality of life of the citizens. Several data was provided from hospitals from the city and applications that focus on health such as HealthApp.
 
-![](http://www.euncet.es/wp-content/uploads/2016/11/Hack_health_2016.png)
+![](images/Hack_health_2016.png)
 
 ## Solution
 
