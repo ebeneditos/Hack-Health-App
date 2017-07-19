@@ -1,5 +1,6 @@
 <head>
-		<title>Hack&Health App</title>
+	<title>Hack&Health App</title>
+	<link rel="icon" href="https://avatars3.githubusercontent.com/u/22095635?v=3&s=200">
 </head>
 
 ## Challenge
