@@ -1,11 +1,10 @@
 # git files
 .gitattributes export-ignore
-.gitignore export-ignore
 # general text files
 *README.md export-ignore
-# other folders
-images export-ignore
 # gh-pages files
 _config.yml
 _layouts
 index.md
+# other folders
+images export-ignore
