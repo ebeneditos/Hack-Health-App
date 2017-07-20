@@ -1,5 +1,6 @@
 ---
 title: "Hack&Health App"
+description: "Winner solution of the Hack&Health 2016"
 ---
 ## Challenge
 
