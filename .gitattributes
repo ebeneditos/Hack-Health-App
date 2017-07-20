@@ -4,5 +4,4 @@
 *README.md export-ignore
 # other folders
 images export-ignore
-# language settings
-_layouts/default.html linguist-vendored
+
