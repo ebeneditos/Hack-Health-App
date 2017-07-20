@@ -5,6 +5,6 @@ README.md export-ignore
 # gh-pages files
 _config.yml export-ignore
 _layouts export-ignore
-index.md
+index.md export-ignore
 # other folders
 images export-ignore
