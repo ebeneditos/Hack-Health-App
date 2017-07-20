@@ -3,8 +3,8 @@
 # general text files
 README.md export-ignore
 # gh-pages files
-_config.yml
-_layouts
+_config.yml export-ignore
+_layouts export-ignore
 index.md
 # other folders
 images export-ignore
