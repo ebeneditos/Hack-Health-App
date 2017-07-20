@@ -1,12 +1,5 @@
 # git files
 .gitattributes export-ignore
-.gitignore export-ignore
-# general text files
 *README.md export-ignore
-*index.md export-ignore
-*_config.yml export-ignore
-# other folders
-_layouts export-ignore
 images export-ignore
-# language settings
-_layouts/default.html linguist-vendored
+
