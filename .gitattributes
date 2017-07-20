@@ -8,3 +8,5 @@
 # other folders
 _layouts export-ignore
 images export-ignore
+# language settings
+_layouts/default.html linguist-vendored=false
