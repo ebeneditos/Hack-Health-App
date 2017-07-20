@@ -2,7 +2,6 @@
 .gitattributes export-ignore
 .gitignore export-ignore
 # general text files
-*README.md export-ignore
 *index.md export-ignore
 *_config.yml export-ignore
 *favicon.ico export-ignore
