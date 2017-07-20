@@ -5,4 +5,7 @@
 *README.md export-ignore
 # other folders
 images export-ignore
-
+# gh-pages files
+_config.yml
+_layouts
+index.md
