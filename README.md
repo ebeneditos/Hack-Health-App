@@ -32,5 +32,5 @@ An interactive app was developed for the therapist to have control of the patien
 - Probability of a patient to have an episode for a given day.
 - The effects of the activities and the meals to the emotions of the patients.
 
-This way the therapist could see which patients had more probabilities to have an episode and propose them certain activities or diets for the particular day so to prevent them.
+This way the therapist could see which patients had more probabilities to have an episode and propose them certain activities or diets so to prevent them.
 
