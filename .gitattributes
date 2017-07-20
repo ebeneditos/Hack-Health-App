@@ -1,7 +1,7 @@
 # git files
 .gitattributes export-ignore
 # general text files
-*README.md export-ignore
+README.md export-ignore
 # gh-pages files
 _config.yml
 _layouts
