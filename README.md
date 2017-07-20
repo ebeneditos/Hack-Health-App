@@ -14,7 +14,7 @@ The solution proposed by the MESIO group, formed by Ernest Benedito, Gonzalo Esp
 1. A quick view of the patient's performance in therms of eating frequency and activity recording.
 2. A prediction with the percentage of probability of a patient to have an episode for a given day.
 
-Below you can find further explanation about the predicting model and the app development, although you can also take a look at the [presentation](HackHealthApp_Presentation.pdf) that was done for presenting the project to the jury of the competition.
+Below you can find further explanation about the predicting model and the app development, although you can also take a look at the [presentation](HackHealthApp_Presentation.pdf) that was done to present the project to the jury of the competition.
 
 ### Predicting Model
 
