@@ -18,7 +18,8 @@ Below you can find further explanation about the predicting model and the app de
 
 ### Predicting Model
 
-- The initial data was from **30 patients** with eating disorders, taking three times a day during 3 months. The starting point was to make an **exploratory analysis** in order to get to know the variables and their behaviour.
+- The initial data was from **30 patients** with eating disorders, taking three times a day during 3 months.
+- The starting point was to make an **exploratory analysis** in order to get to know the variables and their behaviour.
 - **New variables** were created with, for a given moment, the **information about the last 5 days** of every patient. An **output variable** was also created, saying whether or not a patient had an **episode the next day** or not.
 - A **partition** of the dataset was done, with **80 % train** and **20 % test**.
 - Next step was to **choose the relevant variables**, this was done throud **Panel Linear Model** and a **stepwise** method.
