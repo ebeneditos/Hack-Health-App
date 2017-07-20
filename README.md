@@ -36,5 +36,5 @@ An interactive app was developed for the therapist to have control of the patien
 
 This way the therapist could see which patients had more probabilities to have an episode and propose them certain activities or diets so to prevent them.
 
-The application is availabe in the [App](App) folder, just run it with the `.RData` file in the same directory of the `server.R` and the `ui.R` files.
+The application is availabe in the [App](App) folder, just run it with the `.RData` file in the same directory as the one where the `server.R` and `ui.R` files are.
 
